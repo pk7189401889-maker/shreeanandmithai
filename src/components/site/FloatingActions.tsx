@@ -9,7 +9,7 @@ export function FloatingActions() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Chat on WhatsApp"
-        className="grid h-13 w-13 h-14 w-14 place-items-center rounded-full bg-[oklch(0.68_0.17_150)] text-white shadow-lg transition-transform hover:scale-105"
+        className="grid h-14 w-14 place-items-center rounded-full bg-whatsapp text-whatsapp-foreground shadow-lg transition-transform hover:scale-105"
       >
         <MessageCircle className="h-6 w-6" />
       </a>
