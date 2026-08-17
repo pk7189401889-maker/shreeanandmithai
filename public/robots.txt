@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://shreeanandmithai.lovable.app/sitemap.xml
